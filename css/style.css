@@ -1,0 +1,30 @@
+#initial-hidden {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: red;
+}
+.clickable2:hover {
+  text-decoration: underline;
+}
+#fadeoutcat {
+  display: none;
+}
+#dogout {
+  display: none;
+}
+.clickable3 {
+  cursor: pointer;
+  color: green;
+}
+.clickable3:hover {
+  text-decoration: underline;
+}
