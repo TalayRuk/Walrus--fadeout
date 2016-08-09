@@ -18,8 +18,9 @@
 #fadeoutcat {
   display: none;
 }
-#dogout {
-  display: none;
+#fadeincat img {
+  width: 20%;
+  height: 20%;
 }
 .clickable3 {
   cursor: pointer;
@@ -27,4 +28,14 @@
 }
 .clickable3:hover {
   text-decoration: underline;
+}
+.clickable4 {
+  cursor: pointer;
+  color: purple;
+}
+.clickable4:hover {
+  text-decoration: underline;
+}
+#text-showing{
+  display: none;
 }
